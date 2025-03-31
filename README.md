@@ -10,3 +10,5 @@
 8) instalar as dependencias que serao ultilizadas no projeto 
 - npm install react-router-dom
 - npm install styled-components
+9) verificar de tem a extenção ES7 "React/Redux/GraphQL/React-Native snippets"
+10) criando os componentes do projeto com o comando rafce
